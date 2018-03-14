@@ -14,6 +14,7 @@ dependencies:
   - pip:
     - pandas
     - numpy
+    - sklearn
     - scipy
     - pydicom
     - scikit-image
