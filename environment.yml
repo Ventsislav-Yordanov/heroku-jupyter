@@ -12,6 +12,7 @@ dependencies:
   - sqlalchemy
   - nose
   - pip:
+    - pandas
     - numpy
     - scipy
     - pydicom
