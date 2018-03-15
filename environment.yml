@@ -19,6 +19,7 @@ dependencies:
     - pydicom
     - scikit-image
     - matplotlib
+    - jupyterhub
     - git+git://github.com/pl31/pgcontents.git
     - git+git://github.com/Theano/Theano.git
     - git+git://github.com/fchollet/keras.git
